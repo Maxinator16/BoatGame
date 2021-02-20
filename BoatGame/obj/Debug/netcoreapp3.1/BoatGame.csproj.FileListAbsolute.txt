@@ -1,0 +1,12 @@
+C:\Users\Maxinator\source\repos\BoatGame\BoatGame\obj\Debug\netcoreapp3.1\BoatGame.AssemblyInfoInputs.cache
+C:\Users\Maxinator\source\repos\BoatGame\BoatGame\obj\Debug\netcoreapp3.1\BoatGame.AssemblyInfo.cs
+C:\Users\Maxinator\source\repos\BoatGame\BoatGame\obj\Debug\netcoreapp3.1\BoatGame.csproj.CoreCompileInputs.cache
+C:\Users\Maxinator\source\repos\BoatGame\BoatGame\bin\Debug\netcoreapp3.1\BoatGame.exe
+C:\Users\Maxinator\source\repos\BoatGame\BoatGame\bin\Debug\netcoreapp3.1\BoatGame.deps.json
+C:\Users\Maxinator\source\repos\BoatGame\BoatGame\bin\Debug\netcoreapp3.1\BoatGame.runtimeconfig.json
+C:\Users\Maxinator\source\repos\BoatGame\BoatGame\bin\Debug\netcoreapp3.1\BoatGame.runtimeconfig.dev.json
+C:\Users\Maxinator\source\repos\BoatGame\BoatGame\bin\Debug\netcoreapp3.1\BoatGame.dll
+C:\Users\Maxinator\source\repos\BoatGame\BoatGame\bin\Debug\netcoreapp3.1\BoatGame.pdb
+C:\Users\Maxinator\source\repos\BoatGame\BoatGame\obj\Debug\netcoreapp3.1\BoatGame.dll
+C:\Users\Maxinator\source\repos\BoatGame\BoatGame\obj\Debug\netcoreapp3.1\BoatGame.pdb
+C:\Users\Maxinator\source\repos\BoatGame\BoatGame\obj\Debug\netcoreapp3.1\BoatGame.genruntimeconfig.cache
